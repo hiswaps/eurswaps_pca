@@ -2,6 +2,8 @@
 
 The following notebook serves as a documentation for the PCA analysis on ESTR swap rates. For the purpose of PCA, only the time series of swap rates across different tenors (1-50Y) was used.
 
+View the interactive notebook here: https://colab.research.google.com/drive/12Ux8dqAIqRHZ3IAzkmL7IeoXvNJh275n?usp=sharing 
+
 For the development of the application, similar procedure was used with two datasets: EUR ESTR swap rates and EUR 6M EURIBOR swap rates
 
 ## Table of Contents
